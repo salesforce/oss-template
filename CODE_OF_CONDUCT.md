@@ -47,7 +47,7 @@ Examples of unacceptable behavior by participants include:
 advances
 * Personal attacks, insulting/derogatory comments, or trolling
 * Public or private harassment
-* Publishing, or threatening to publish, others’ private information—such as
+* Publishing, or threatening to publish, others' private information—such as
 a physical or electronic address—without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
 professional setting
@@ -86,7 +86,7 @@ policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
-members of the project’s leadership and the Salesforce Open Source Conduct 
+members of the project's leadership and the Salesforce Open Source Conduct 
 Committee.
 
 ## Attribution
