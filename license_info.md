@@ -5,7 +5,7 @@ Most projects we open source should use the [BSD 3-Clause](https://opensource.or
 
 For the BSD 3-Clause license, create a `LICENSE.txt` file in the root of your repo containing:
 ```
-Copyright (c) 2018, Salesforce.com, Inc.
+Copyright (c) 2019, Salesforce.com, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -22,7 +22,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 The shorter version of license text should be added as a comment to all source code and configuration files that support comments. This include file formats like HTML, CSS, JavaScript, XML, etc. which aren't directly code, but are still critical to your project code. Like:
 ```
 /*
- * Copyright (c) 2018, salesforce.com, inc.
+ * Copyright (c) 2019, salesforce.com, inc.
  * All rights reserved.
  * SPDX-License-Identifier: BSD-3-Clause
  * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
