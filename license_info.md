@@ -5,7 +5,7 @@ Most projects we open source should use the [BSD 3-Clause](https://opensource.or
 
 For the BSD 3-Clause license, create a `LICENSE.txt` file in the root of your repo containing:
 ```
-Copyright (c) 2020, Salesforce.com, Inc.
+Copyright (c) 2021, Salesforce.com, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
