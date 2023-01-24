@@ -7,7 +7,7 @@ For the BSD 3-Clause license, create a `LICENSE.txt` file in the root of your re
 ```
 BSD 3-Clause License
 
-Copyright (c) 2022, Salesforce.com, Inc.
+Copyright (c) 2022, Salesforce, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -24,7 +24,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 The shorter version of license text should be added as a comment to all Salesforce-authored source code and configuration files that support comments. This include file formats like HTML, CSS, JavaScript, XML, etc. which aren't directly code, but are still critical to your project code. Like:
 ```
 /*
- * Copyright (c) 2022, salesforce.com, inc.
+ * Copyright (c) 2022, Salesforce, Inc.
  * All rights reserved.
  * SPDX-License-Identifier: BSD-3-Clause
  * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
@@ -34,7 +34,6 @@ The shorter version of license text should be added as a comment to all Salesfor
 [Check out an example](https://github.com/salesforce/octoviolet/blob/master/server.js#L1-L6)
 
 Note that there are many tools that exist to do this sort of thing in an automated fashion, without having to manually edit every single file in your project. It is highly recommended that you research some of these tools for your particular language / build system.
-
 
 For sample, demo, and example code create a `LICENSE.txt` file containing:
 ```
