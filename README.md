@@ -4,7 +4,7 @@ A repo containing all the basic file templates and general guidelines for any op
 
 ## Usage
 
-It's recommended to place all files at the top level of your repository.
+It's required that all files must be placed at the top level of your repository.
 
 > **NOTE** Your README should contain detailed, useful information about the project!
 
