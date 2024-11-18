@@ -1,10 +1,49 @@
-# README
+# Salesforce OSS template
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+Template files for open source projects at Salesforce. The following files need modification before use:
 
-## Usage
+- CONTRIBUTING.md
 
-It's required that all files must be placed at the top level of your repository.
+For more information about the license see [license_info.md](license_info.md).
 
-> **NOTE** Your README should contain detailed, useful information about the project!
+## Usage, automated
 
+All files must be placed at the top level of your repository. Copy the following files into your project:
+
+- CODE_OF_CONDUCT.md
+- CODEOWNERS
+- CONTRIBUTING.md
+- LICENSE.txt
+- SECURITY.md
+
+This can be accomplished by runing these commands in a terminal that has [curl](https://curl.se/) installed:
+
+```term
+curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/CODE_OF_CONDUCT.md &&
+curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/CODEOWNERS
+curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/CONTRIBUTING.md
+curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/LICENSE.txt
+curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/SECURITY.md
+```
+
+Inspect the files, ensure the downloads succeeded (below `$` indicates a command was run in a terminal/command-prompt):
+
+```term
+$ git status
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CODEOWNERS
+	CODE_OF_CONDUCT.md
+	CONTRIBUTING.md
+	LICENSE.txt
+	SECURITY.md
+```
+
+Update the following files with project specific information:
+
+- CONTRIBUTING.md
+
+Ensure placeholder brackets such as `{NAME OF PROJECT}` are replaced and that when multiple options are given such as `> or` that only one is selected.
+
+Commit the results to git.
