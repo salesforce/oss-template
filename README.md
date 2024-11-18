@@ -4,7 +4,7 @@ Template files for open source projects at Salesforce. We suggest customizing th
 
 - CONTRIBUTING.md
 
-For more information about the license see [license_info.md](license_info.md).
+For more information about the license, see [license_info.md](license_info.md).
 
 ## Usage, automated
 
@@ -16,7 +16,7 @@ All files must be placed at the top level of your repository. Copy the following
 - LICENSE.txt
 - SECURITY.md
 
-This can be accomplished by runing these commands in a terminal that has [curl](https://curl.se/) installed:
+This task can be accomplished by running these commands in a terminal that has [curl](https://curl.se/) installed:
 
 ```term
 curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/CODE_OF_CONDUCT.md &&
@@ -26,7 +26,7 @@ curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-templ
 curl --remote-name --fail https://raw.githubusercontent.com/salesforce/oss-template/refs/heads/main/SECURITY.md
 ```
 
-Inspect the files, ensure the downloads succeeded (below `$` indicates a command was run in a terminal/command-prompt):
+Inspect the files, and ensure the downloads succeeded (below `$` indicates a command was run in a terminal/command prompt):
 
 ```term
 $ git status
@@ -40,11 +40,11 @@ Untracked files:
 	SECURITY.md
 ```
 
-Customize the following files with project specific information:
+Customize the following files with project-specific information:
 
 - CONTRIBUTING.md
 
-Replace lines containing HTML comments with the desired contents. For example if your project was named "V2MOM Analyzer" you could replace this:
+Replace lines containing HTML comments with the desired contents. For example, if your project was named "V2MOM Analyzer," you could replace this:
 
 ```
 # Contributing Guide <!-- For {NAME OF PROJECT} -->
