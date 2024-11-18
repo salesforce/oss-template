@@ -1,6 +1,6 @@
 # Salesforce OSS template
 
-Template files for open source projects at Salesforce. The following files need modification before use:
+Template files for open source projects at Salesforce. We suggest customizing the following files before use:
 
 - CONTRIBUTING.md
 
@@ -40,10 +40,20 @@ Untracked files:
 	SECURITY.md
 ```
 
-Update the following files with project specific information:
+Customize the following files with project specific information:
 
 - CONTRIBUTING.md
 
-Ensure placeholder brackets such as `{NAME OF PROJECT}` are replaced and that when multiple options are given such as `> or` that only one is selected.
+Replace lines containing HTML comments with the desired contents. For example if your project was named "V2MOM Analyzer" you could replace this:
+
+```
+# Contributing Guide <!-- For {NAME OF PROJECT} -->
+```
+
+With this:
+
+```
+# Contributing Guide V2MOM Analyzer
+```
 
 Commit the results to git.
