@@ -85,6 +85,15 @@ Issues labelled `good first contribution`.
 
 > **NOTE**: Be sure to [sync your fork](https://help.github.com/articles/syncing-a-fork/) before making a pull request.
 
+# Contributor License Agreement ("CLA")
+In order to accept your pull request, we need you to submit a CLA. You only need
+to do this once to work on any of Salesforce's open source projects.
+
+Complete your CLA here: <https://cla.salesforce.com/sign-cla>
+
+# Issues
+We use GitHub issues to track public bugs. Please ensure your description is
+clear and has sufficient instructions to be able to reproduce the issue.
 
 # Code of Conduct
 Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
