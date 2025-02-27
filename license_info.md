@@ -7,7 +7,7 @@ For the ALv2 license, create a `LICENSE.txt` file (or use the one in this templa
 ```
 Apache License Version 2.0
 
-Copyright (c) 2024 Salesforce, Inc.
+Copyright (c) 2025 Salesforce, Inc.
 All rights reserved.
 
                                  Apache License
@@ -218,7 +218,7 @@ All rights reserved.
 The shorter version of license text should be added as a comment to all Salesforce-authored source code and configuration files that support comments. This include file formats like HTML, CSS, JavaScript, XML, etc. which aren't directly code, but are still critical to your project code. Like:
 ```
 /*
- * Copyright (c) 2023, Salesforce, Inc.
+ * Copyright (c) 2025 Salesforce, Inc.
  * SPDX-License-Identifier: Apache-2
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
