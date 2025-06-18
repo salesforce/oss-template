@@ -30,7 +30,8 @@ Please join the community on {COMMUNITY_LINKS}. Also please make sure to take a 
 
 ## Issues, requests & ideas
 
-Use GitHub Issues page to submit issues, enhancement requests and discuss ideas.
+Use the GitHub Issues page to submit issues, enhancement requests and discuss ideas. Please ensure your description is
+clear and has sufficient instructions to be able to reproduce the issue.
 
 ### Bug Reports and Fixes
 
@@ -95,11 +96,6 @@ In order to accept your pull request, we need you to submit a CLA. You only need
 to do this once to work on any of Salesforce's open source projects.
 
 Complete your CLA here: <https://cla.salesforce.com/sign-cla>
-
-## Issues
-
-We use GitHub issues to track public bugs. Please ensure your description is
-clear and has sufficient instructions to be able to reproduce the issue.
 
 ## Code of Conduct
 
