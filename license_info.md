@@ -1,13 +1,15 @@
-License Info
-------------
+How To License Info
+-------------------
 
 Most projects we open source should use the [Apache License v2](https://opensource.org/license/apache-2-0/) license.  Samples, demos, and blog / doc code examples should instead use [CC-0](https://creativecommons.org/publicdomain/zero/1.0/).  If you strongly feel your project should perhaps use a different license clause, please engage with legal team.
+
+For this guide, we will assume the use of the ALv2.
 
 For the ALv2 license, create a `LICENSE.txt` file (or use the one in this template repo) in the root of your repo containing:
 ```
 Apache License Version 2.0
 
-Copyright (c) 2024 Salesforce, Inc.
+Copyright (c) 2025 Salesforce, Inc.
 All rights reserved.
 
                                  Apache License
@@ -218,7 +220,7 @@ All rights reserved.
 The shorter version of license text should be added as a comment to all Salesforce-authored source code and configuration files that support comments. This include file formats like HTML, CSS, JavaScript, XML, etc. which aren't directly code, but are still critical to your project code. Like:
 ```
 /*
- * Copyright (c) 2023, Salesforce, Inc.
+ * Copyright (c) 2025, Salesforce, Inc.
  * SPDX-License-Identifier: Apache-2
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
