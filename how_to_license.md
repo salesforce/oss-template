@@ -9,7 +9,7 @@ For the ALv2 license, create a `LICENSE.txt` file (or use the one in this templa
 ```
 Apache License Version 2.0
 
-Copyright (c) 2025 Salesforce, Inc.
+Copyright (c) 2026 Salesforce, Inc.
 All rights reserved.
 
                                  Apache License
