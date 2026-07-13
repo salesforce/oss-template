@@ -1,7 +1,7 @@
 How To License Info
 -------------------
 
-Most projects we open source should use the [Apache License v2](https://opensource.org/license/apache-2-0/) license.  Samples, demos, and blog / doc code examples should instead use [CC-0](https://creativecommons.org/publicdomain/zero/1.0/).  If you strongly feel your project should perhaps use a different license clause, please engage with legal team.
+Most projects we open source should use the [Apache License v2](https://opensource.org/license/apache-2-0/) license. Samples, demos, and blog / doc code examples should instead use the [Unlicense](https://opensource.org/license/unlicense/) license. If you strongly feel your project should perhaps use a different license clause, please engage with legal team.
 
 For this guide, we will assume the use of the ALv2.
 
